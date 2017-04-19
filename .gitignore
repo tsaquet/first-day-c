@@ -15,3 +15,6 @@
 *.exe
 *.out
 *.app
+
+#custom files
+fichierDeRatage.txt
